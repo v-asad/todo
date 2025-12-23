@@ -1,5 +1,6 @@
 A local todo app for me.
- - [ ] Complete backend. 
- - [ ] Integrate with macOS Menu Bar. 
+ - [x] Complete backend. 
+ - [x] Integrate with macOS Menu Bar.
+ - [ ] Design a usable UI for managing tasks. 
  - [ ] Integrate with Raycast. 
 
