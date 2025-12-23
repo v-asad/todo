@@ -34,3 +34,6 @@ custom-protocol = ["tauri/custom-protocol"]
 # This seems to be only an issue on Windows, see https://github.com/rust-lang/cargo/issues/8519
 name = "todo_menubar_lib"
 crate-type = ["staticlib", "cdylib", "rlib"]
+
+[lints.rust]
+unexpected_cfgs = "allow"
