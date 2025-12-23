@@ -1,6 +1,7 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "todo-list",
+  "version": "0.1.0",
   "title": "Todo List",
   "description": "A simple todo list.",
   "icon": "icon.png",
