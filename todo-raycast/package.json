@@ -2,7 +2,6 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "@asvds/raycast-todo-list",
   "version": "0.1.0",
-  "owner": "ideon",
   "title": "Todo List",
   "description": "A simple todo list.",
   "icon": "icon.png",
